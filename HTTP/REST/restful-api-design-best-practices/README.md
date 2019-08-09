@@ -1,0 +1,2 @@
+# restful-api-design-best-practices
+[RESTful API Design. Best Practices in a Nutshell.](https://phauer.com/2015/restful-api-design-best-practices/?source=post_page---------------------------#use-two-urls-per-resource)의 내용을 보고 정리한다. 내용이 꽤 많아서 여러 파일로 분리하려고 함.
