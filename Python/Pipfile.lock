@@ -1,0 +1,41 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d5c0a2e84a712a584e3c61c9ecff119a1ef1d5069506c9f227071fb9c07648b8"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "dacite": {
+            "hashes": [
+                "sha256:c26773fe3a5a3d127d6d35e3abb2fbea0461fffc914b51357bf0e218387e55df",
+                "sha256:dbc3e2ee755a06054366053bf67aaa495d6acd2306e264c4641865f99043a70c"
+            ],
+            "index": "pypi",
+            "version": "==1.0.2"
+        },
+        "pydantic": {
+            "hashes": [
+                "sha256:18598557f0d9ab46173045910ed50458c4fb4d16153c23346b504d7a5b679f77",
+                "sha256:6a9335c968e13295430a208487e74d69fef40168b72dea8d975765d14e2da660",
+                "sha256:6f5eb88fe4c21380aa064b7d249763fc6306f0b001d7e7d52d80866d1afc9ed3",
+                "sha256:bc6c6a78647d7a65a493e1107572d993f26a652c49183201e3c7d23924bf7311",
+                "sha256:e1a63b4e6bf8820833cb6fa239ffbe8eec57ccdd7d66359eff20e68a83c1deeb",
+                "sha256:ede2d65ae33788d4e26e12b330b4a32c53cb14131c65bca3a59f037c73f6ee7a"
+            ],
+            "index": "pypi",
+            "version": "==0.32.2"
+        }
+    },
+    "develop": {}
+}
