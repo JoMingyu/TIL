@@ -1,4 +1,4 @@
-# dacite -> pydantic에서 타입 관련 문제
+# dacite to pydantic에서 타입 관련 문제
 dacite도 타입 검사를 한다. 데이터클래스에 값을 넣어주기만 하는 게 아니라는 것. 그래서 pydantic만의 타입으로 힌팅된 변수가 있다면, dacite 단에서는 이걸 알아듣지 못하니 `isinstance`에서 걸려버린다.
 
 ```python
